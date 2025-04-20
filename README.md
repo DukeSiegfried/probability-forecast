@@ -18,6 +18,6 @@
 - **Хостинг**: Streamlit Cloud.
 
 ## Демо
-- Опитайте приложението: [Вмъкни Streamlit URL]
+- Опитайте приложението: https://probability-forecast-okvckl3mhhjcx3checyybe.streamlit.app/
 - Примерни данни: Изтеглете [`sales_data.csv`](./sales_data.csv) или [`new_sales_data.csv`](./new_sales_data.csv).
 
